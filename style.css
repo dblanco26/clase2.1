@@ -1,3 +1,10 @@
-table, tr, th, td { 
-    border: 1px solid black; 
+table {
+  border: 10px solid #333;
+  font-family: Arial, sans-serif;
+}
+
+th, td, tr {
+  border: 2px solid #333;
+  padding: 10px;
+  text-align: center;
 }
